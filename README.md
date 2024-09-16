@@ -4,7 +4,7 @@ Hello there! My name is Svevo Romano and I'm a Full Stack developer, UI/UX desig
 
 
 ## Technical Skills
-**Languages:** [br]
+**Languages:** HTML, CSS, PHP, JavaScript
 **Libraries and frameworks:**[br]
 **Web technologies:**
 **Applicaions and OSs:**
