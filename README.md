@@ -4,13 +4,13 @@ Hello there! My name is Svevo Romano and I'm a Full Stack developer, UI/UX desig
 
 
 ## Technical Skills
-**Languages:** 
-**Libraries and frameworks:**
+**Languages:** [br]
+**Libraries and frameworks:**[br]
 **Web technologies:**
 **Applicaions and OSs:**
 
 ## Sample projects
-https:www.mavostudio.com
+https://www.mavostudio.com
 
 
 
