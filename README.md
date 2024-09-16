@@ -9,7 +9,7 @@ Hello there! My name is Svevo Romano and I'm a Full Stack developer, UI/UX desig
 **Web technologies:**  
 **Applicaions and OSs:**
 
-## Sample projects
+## Recent work
 https://www.mavostudio.com
 
 
