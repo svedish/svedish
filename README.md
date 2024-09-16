@@ -1,6 +1,6 @@
 Hello there! My name is Svevo Romano and I'm a Full Stack developer, UI/UX designer and Project Manager.
 
-###Profile
+### Profile
 
 THis is my profile
 <!--
