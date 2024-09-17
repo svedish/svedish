@@ -26,7 +26,7 @@ Hello! My name is Svevo. I have worked as a Full Stack developer, UI/UX designer
 * [My studio](https://www.mavostudio.com/en/)
 
 ## Goodies
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0oIIRc0zc_U/0.jpg)](https://www.youtube.com/watch?v=0oIIRc0zc_U)
+[![IMAGE ALT TEXT HERE target="_blank"](https://img.youtube.com/vi/0oIIRc0zc_U/0.jpg)](https://www.youtube.com/watch?v=0oIIRc0zc_U)
 <!--
 **svedish/svedish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
