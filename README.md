@@ -5,11 +5,15 @@ I have worked as a web developer, UI/UX designer and project manager for over 20
 
 ## Technical Skills
 **Languages:** HTML, CSS, PHP, JavaScript  
-**Libraries and web technologies:**  
-**Applicaions and OSs:**
+**Libraries and web technologies:**  WordPress, ExpressionEngine, Shopify, Node.js, React, TypeScript, Express.js, Tailwind CSS, Redux, MySQL, SQLite, MongoDB, APIs, CLIs, Amazon AWS
+**Applicaions and OSs:** Adobe CS, MS Office, Mac OS, Unix
 
 ## Recent work
 https://www.mavostudio.com
+https://www.effetto48.it
+https://www.aziendaagricolaacquaviva.it
+https://www.ilmegliodite.it
+https://www.pontediarchimedeproduzioni.it
 
 
 
