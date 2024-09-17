@@ -5,8 +5,7 @@ I have worked as a web developer, UI/UX designer and project manager for over 20
 
 ## Technical Skills
 **Languages:** HTML, CSS, PHP, JavaScript  
-**Libraries and frameworks:**  
-**Web technologies:**  
+**Libraries and web technologies:**  
 **Applicaions and OSs:**
 
 ## Recent work
