@@ -15,7 +15,7 @@ https://www.aziendaagricolaacquaviva.it
 https://www.ilmegliodite.it  
 https://www.pontediarchimedeproduzioni.it
 
-## Exercises
+## Sandbox
 https://dev.mavostudio.com/impiccato/ (a hangman game developen in React)  
 
 
