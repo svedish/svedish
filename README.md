@@ -1,9 +1,9 @@
 Hello! My name is Svevo. I have worked as a web developer, UI/UX designer and project manager for over 20 years helping many brands with their online and offline marketing strategies.
 
 ## Technical Skills
-**Languages:** HTML, CSS, PHP, JavaScript  
-**Libraries and web technologies:**  WordPress, ExpressionEngine, Shopify, Node.js, React, TypeScript, Express.js, Tailwind CSS, Redux, MySQL, SQLite, MongoDB, APIs, CLIs, Amazon AWS  
-**Applicaions and OSs:** Adobe CS, MS Office, Mac OS, Unix
+* **Languages:** HTML, CSS, PHP, JavaScript  
+* **Libraries and web technologies:**  WordPress, ExpressionEngine, Shopify, Node.js, React, TypeScript, Express.js, Tailwind CSS, Redux, MySQL, SQLite, MongoDB, APIs, CLIs, Amazon AWS  
+* **Applicaions and OSs:** Adobe CS, MS Office, Mac OS, Unix
 
 ## Recent work
 * https://www.mavostudio.com  
