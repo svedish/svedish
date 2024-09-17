@@ -16,7 +16,7 @@ https://www.ilmegliodite.it
 https://www.pontediarchimedeproduzioni.it
 
 ## Exercises
-https://dev.mavostudio.com/impiccato/  
+https://dev.mavostudio.com/impiccato/ (a hangman game developen in React)  
 
 
 <!--
