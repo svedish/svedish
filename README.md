@@ -9,10 +9,10 @@ I have worked as a web developer, UI/UX designer and project manager for over 20
 **Applicaions and OSs:** Adobe CS, MS Office, Mac OS, Unix
 
 ## Recent work
-https://www.mavostudio.com
-https://www.effetto48.it
-https://www.aziendaagricolaacquaviva.it
-https://www.ilmegliodite.it
+https://www.mavostudio.com  
+https://www.effetto48.it  
+https://www.aziendaagricolaacquaviva.it  
+https://www.ilmegliodite.it  
 https://www.pontediarchimedeproduzioni.it
 
 
