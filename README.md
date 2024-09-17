@@ -11,6 +11,7 @@ Hello! My name is Svevo. I have worked as a web developer, UI/UX designer and pr
 * https://www.aziendaagricolaacquaviva.it  
 * https://www.ilmegliodite.it  
 * https://www.pontediarchimedeproduzioni.it
+* https://www.leonardogaito.it
 
 ## Sandbox
 * https://dev.mavostudio.com/impiccato/ (a hangman game developen in React)  
