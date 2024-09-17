@@ -16,8 +16,8 @@ Hello! My name is Svevo. I have worked as a web developer, UI/UX designer and pr
 * https://dev.mavostudio.com/impiccato/ (a hangman game developen in React)  
 
 ## Professional goals
-**Career Development:** After a few years of balancing fatherhood with freelance work, I am now looking for new opportunities in development and design.  
-**Lifelong learniong:** Whenever I am not working on a live project I study. Among other resources, I believe [Frontend Masters](https://www.frontendmasters.com) is an excellent e-learning platform for modern web technologies. There, I'm deeping my knowledge of the Node.js echosystem and I'm learning Python for AI applications. I am in fact fascinated by AI and data analysis, so I took a couple of online courses from Stanford University. I use ChatGPT Plus in my everyday life and I'm reading more about developing and training models with frameworks, especially Tensor Flow. I'm also looking into how to leverage AI in the tourism sector as I started a small venture in the holiday homes sector. 
+* **Career Development:** After a few years of balancing fatherhood with freelance work, I am now looking for new opportunities in development and design.  
+* **Lifelong learniong:** Whenever I am not working on a live project I study. Among other resources, I believe [Frontend Masters](https://www.frontendmasters.com) is an excellent e-learning platform for modern web technologies. There, I'm deeping my knowledge of the Node.js echosystem and I'm learning Python for AI applications. I am in fact fascinated by AI and data analysis, so I took a couple of online courses from Stanford University. I use ChatGPT Plus in my everyday life and I'm reading more about developing and training models with frameworks, especially Tensor Flow. I'm also looking into how to leverage AI in the tourism sector as I started a small venture in the holiday homes sector. 
 
 <!--
 **svedish/svedish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
