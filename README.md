@@ -6,14 +6,14 @@ Hello! My name is Svevo. I have worked as a web developer, UI/UX designer and pr
 **Applicaions and OSs:** Adobe CS, MS Office, Mac OS, Unix
 
 ## Recent work
-https://www.mavostudio.com  
-https://www.effetto48.it  
-https://www.aziendaagricolaacquaviva.it  
-https://www.ilmegliodite.it  
-https://www.pontediarchimedeproduzioni.it
+* https://www.mavostudio.com  
+* https://www.effetto48.it  
+* https://www.aziendaagricolaacquaviva.it  
+* https://www.ilmegliodite.it  
+* https://www.pontediarchimedeproduzioni.it
 
 ## Sandbox
-https://dev.mavostudio.com/impiccato/ (a hangman game developen in React)  
+* https://dev.mavostudio.com/impiccato/ (a hangman game developen in React)  
 
 ## Professional goals
 **Career Development:** After a few years of balancing fatherhood with freelance work, I am now looking for new opportunities in development and design.  
