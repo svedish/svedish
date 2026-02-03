@@ -16,6 +16,7 @@ Hello! My name is Svevo. I have worked as a Full Stack developer, UI/UX designer
 ## Sandbox
 * https://dev.mavostudio.com/impiccato/ (a hangman game developen in React)
 * https://dev.mavostudio.com/post-it/ (small app written in vanilla JavaScript to create post-it notes)
+* https://dev.mavostudio.com/odd_one_out/ (small React game which illustrates old psychiatric tests)
 
 ## Professional goals
 * **Career Development:** After a few years of balancing fatherhood with freelance work, I am now looking for new opportunities in development and design.  
