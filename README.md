@@ -2,7 +2,7 @@ Hello! My name is Svevo. I have worked as a Full Stack developer, UI/UX designer
 
 ## Technical Skills
 * **Languages:** HTML, CSS, PHP, JavaScript  
-* **Libraries and web technologies:**  WordPress, ExpressionEngine, Shopify, Node.js, React, TypeScript, Express.js, Tailwind CSS, Redux, MySQL, SQLite, MongoDB, APIs, CLIs, AWS  
+* **Libraries and web technologies:**  WordPress, Craft CMS, ExpressionEngine, Shopify, Node.js, React, Next.js, TypeScript, Express.js, Tailwind CSS, Redux, MySQL, SQLite, MongoDB, Headless CMS, APIs, CLIs, AWS  
 * **Applicaions and OSs:** Adobe CS, MS Office, Mac OS, Unix
 
 ## Recent work
