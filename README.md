@@ -26,7 +26,7 @@ Hello! My name is Svevo. I have worked as a Full Stack developer, UI/UX designer
 * [LinkedIn](https://www.linkedin.com/in/svevoromano/)
 * [My personal website](https://www.svevoromano.it/)
 * [My studio](https://www.mavostudio.com/en/)
-* My [Ciao Napoli Travel Guide](https://www.ciaonapoli.info/)
+* [Ciao Napoli Travel Guide](https://www.ciaonapoli.info/)
 
 <!--
 ## Goodies
